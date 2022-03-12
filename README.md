@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **nikil874@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1TIVRrBloQkiURE8agNVW7YJx4FeRoIxv/view?usp=sharing](https://drive.google.com/file/d/1TIVRrBloQkiURE8agNVW7YJx4FeRoIxv/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1TIVRrBloQkiURE8agNVW7YJx4FeRoIxv/view?usp=sharing)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
