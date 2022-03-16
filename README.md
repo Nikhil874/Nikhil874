@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sai Nikhil</h1>
-<h3 align="center">Aspiring full-stack web developer with specialization in MERN stack</h3>
+<h3 align="center">Logic and results-driven full-stack developer with a specialization in MERN stack. Determined in building and optimizing user-focused websites for customers with various business objectives. A web developer with good critical thinking and problem solving skills. Seeking entry-level opportunities to expand his skill expertise and knowledge.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhil874&label=Profile%20views&color=0e75b6&style=flat" alt="nikhil874" /> </p>
 
